@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheMealsApp</string>
+    <string name="search">Search</string>
+    <string name="hello_blank_fragment">Hello!</string>
+    <string name="ingredient_list">Ingredient List</string>
+    <string name="instruction_list">Instruction List</string>
+    <string name="meal_title">Meal Title</string>
+    <string name="MealImage">MealImage</string>
+</resources>
